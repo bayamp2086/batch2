@@ -1,0 +1,28 @@
+[
+	{
+		"Student": {
+			"technologies": [
+				"Java",
+				"JavaScript",
+				"HTML",
+				"PHP"
+			],
+			"firstName": "Ruchika",
+			"lastName": "Pandey",
+			"Batch": "June-2019"
+		}
+	},
+	{
+		"Student": {
+			"technologies": [
+				"Java",
+				"JavaScript",
+				"HTML",
+				"SQL"
+			],
+			"firstName": "Ghanashyam",
+			"lastName": "Pandey",
+			"Batch": "June-2019"
+		}
+	}
+]

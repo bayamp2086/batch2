@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="sampletestng" verbose="1">
+	<test name="subString tests">
+		<classes>
+			<class name="com.bayamp.trainning.junebatch.stringutils.tests.SubStringTests" />
+		</classes>
+	</test>
+
+	<test name="ReverseString Tests">
+		<classes>
+			<class name="com.bayamp.trainning.junebatch.stringutils.tests.ReverseStringTests" />
+		</classes>
+	</test>
+
+	<test name="SubStringTests">
+		<classes>
+			<class name="com.bayamp.trainning.junebatch.stringutils.tests.SubStringTests" />
+		</classes>
+	</test>
+
+</suite>
