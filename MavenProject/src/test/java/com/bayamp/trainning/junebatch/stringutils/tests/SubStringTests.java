@@ -5,7 +5,7 @@ import static org.testng.Assert.fail;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import Utilis.StringUtils;
+//Made the changes into file
 
 public class SubStringTests {
 
@@ -19,7 +19,7 @@ public class SubStringTests {
 		Assert.assertEquals(acutalResponse, expected);
 	}
 
-	@Test(description = "This will verify the negative Scenario")
+	@Test(description = "This verifies the negative Scenario")
 	public void negativeTest() {
 		boolean expected = false;
 
