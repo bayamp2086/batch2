@@ -1,0 +1,20 @@
+<customer>
+	<firstName> joseph </firstName>
+	<lastName> mcmoore </lastName>
+	<addresses>
+		<address>
+			<billingAddress>
+				<street> 200 walsh stree</street>
+				<city> Santa Clara </city>
+				<state> CA</state>
+			</billingAddress>
+		</address>
+		<address>
+			<shippingAddress>
+				<street> 400 mike stree</street>
+				<city> Santa Cruz </city>
+				<state> CA</state>
+			</shippingAddress>
+		</address>
+	</addresses>
+</customer>

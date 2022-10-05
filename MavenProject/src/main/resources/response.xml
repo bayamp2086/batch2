@@ -1,0 +1,9 @@
+<root>
+  <record>
+    <id>1</id>
+    <name>Ian</name>
+    <addressDetails>
+      <street> M G Road </street>
+    </addressDetails>
+  </record>  
+</root>

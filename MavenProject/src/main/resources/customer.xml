@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<customer id="28">
+
+	<firstName> joseph </firstName>
+	<lastName> mcmoore </lastName>
+	<address>
+		<street> 200 walsh street</street>
+		<city> Santa Clara </city>
+		<state> CA</state>
+	</address>
+
+</customer>
